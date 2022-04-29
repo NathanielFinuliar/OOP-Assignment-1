@@ -1,0 +1,11 @@
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\bin\Debug\Nathaniel_D.Finuliar.exe.config
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\bin\Debug\Nathaniel_D.Finuliar.exe
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\bin\Debug\Nathaniel_D.Finuliar.pdb
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\obj\Debug\Nathaniel D. Finuliar.csproj.AssemblyReference.cache
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\obj\Debug\Nathaniel D. Finuliar.csproj.SuggestedBindingRedirects.cache
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\obj\Debug\Nathaniel_D.Finuliar.Form1.resources
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\obj\Debug\Nathaniel_D.Finuliar.Properties.Resources.resources
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\obj\Debug\Nathaniel D. Finuliar.csproj.GenerateResource.cache
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\obj\Debug\Nathaniel D. Finuliar.csproj.CoreCompileInputs.cache
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\obj\Debug\Nathaniel_D.Finuliar.exe
+C:\Users\nathan\source\repos\Nathaniel D. Finuliar\obj\Debug\Nathaniel_D.Finuliar.pdb
